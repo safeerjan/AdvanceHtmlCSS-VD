@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40.333 47.45">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9197a4;
+      }
+    </style>
+  </defs>
+  <g id="notifications-bell-button" transform="translate(-38.25)">
+    <g id="notifications-none" transform="translate(38.25)">
+      <path id="Path_357" data-name="Path 357" class="cls-1" d="M58.416,47.45A4.759,4.759,0,0,0,63.161,42.7h-9.49A4.759,4.759,0,0,0,58.416,47.45ZM73.837,33.215V20.166A15.267,15.267,0,0,0,61.975,5.22V3.559a3.559,3.559,0,0,0-7.118,0V5.219A15.267,15.267,0,0,0,42.995,20.166V33.215L38.25,37.96v2.373H78.582V37.96Zm-4.745,2.373H47.74V20.166a10.676,10.676,0,0,1,21.353,0Z" transform="translate(-38.25)"/>
+    </g>
+  </g>
+</svg>

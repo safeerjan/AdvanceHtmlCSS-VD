@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33.389 29.32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #5a5c62;
+      }
+    </style>
+  </defs>
+  <g id="bar-chart" transform="translate(0 -31.201)">
+    <g id="Group_360" data-name="Group 360" transform="translate(0 58.943)">
+      <g id="Group_359" data-name="Group 359">
+        <path id="Path_370" data-name="Path 370" class="cls-1" d="M32.6,456.607H.789a.789.789,0,0,0,0,1.578H32.6a.789.789,0,0,0,0-1.578Z" transform="translate(0 -456.607)"/>
+      </g>
+    </g>
+    <g id="Group_362" data-name="Group 362" transform="translate(2.056 31.201)">
+      <g id="Group_361" data-name="Group 361">
+        <path id="Path_371" data-name="Path 371" class="cls-1" d="M60.018,34.925h-5.54a.789.789,0,0,0-.789.789v5.363H49.727V31.99a.789.789,0,0,0-.789-.789H43.4a.789.789,0,0,0-.789.789V46.916H38.647V40.211a.789.789,0,0,0-.789-.789h-5.54a.789.789,0,0,0-.789.789v15.1a.789.789,0,0,0,.789.789h27.7a.789.789,0,0,0,.789-.789v-19.6A.789.789,0,0,0,60.018,34.925ZM37.07,54.523H33.108V41H37.07Zm5.54,0H38.648V48.494H42.61Zm5.54-12.657V54.523H44.187V32.779h3.962Zm5.54,12.657H49.727V42.655h3.962Zm5.54,0H55.267V36.5h3.962v18.02Z" transform="translate(-31.53 -31.201)"/>
+      </g>
+    </g>
+  </g>
+</svg>

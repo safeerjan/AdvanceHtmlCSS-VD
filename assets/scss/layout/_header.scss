@@ -1,0 +1,78 @@
+header{
+    height: 103px;
+    border-bottom: 1px solid $border-color;
+    display: flex;
+    .logo-wrapper{
+        padding: 13px 15px 0px 22px;
+        img{
+            width: 87px;
+        }
+    }
+    .app-navigation{
+        width: calc(100% - 228px);
+        a.brand-icon{
+            img{
+                width: 196px;
+                margin-top: 40px;
+            }
+        }
+        .right-menu{
+            display: inline-block;
+            float: right;
+            .right-menu-list {
+                float: left;
+                padding: 20px 39px;
+                border-left: 1px solid $border-color-light;
+                button{
+                    position: relative;
+                }
+                .right-menu-list-icon {
+                    width: 33px;
+                }
+                &:last-child{
+                    .right-menu-list-icon {
+                        width: 28px;
+                    }
+                }
+            }
+        }
+        .navigation-bar-items{
+            border-top: 1px solid $border-color;
+            margin-top: 5px;
+            .navigation-bar-list{
+                display: inline-block;
+                margin-top: 2px;
+                position: relative;
+                left: -20px;
+                a{
+                    color: $txt-color-navigation;
+                    text-decoration: none;;
+                    font-size: 14px;
+                    border-right: 1px solid $border-color;
+                    padding: 0px 20px;
+                    letter-spacing: 3px;
+                }
+                &:first-child{
+                    a{
+                        padding-left: 0px;
+                    }
+                }
+            }
+        }
+    }
+    .setting-menu-container{
+        width: 103px;
+        display: flex;
+        justify-content: center;
+        height: 100%;
+        border-left: 1px solid $border-color-light;
+        .menu-bar{
+            width: 25px;
+        }
+    }
+    &::after{
+        content: "";
+        display: block;
+        clear: both;
+    }
+}

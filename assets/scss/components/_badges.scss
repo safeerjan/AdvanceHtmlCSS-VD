@@ -1,0 +1,19 @@
+.badge{
+    display: block;
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: -5px;
+    border-radius: 100%;
+    color: #fff;
+    line-height: 24px;
+    left: 15px;
+}
+
+.badge-red{
+    background-color: #C60000;
+}
+
+.badge-yellow{
+    background-color: #FFBA00;
+}
